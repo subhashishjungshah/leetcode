@@ -31,6 +31,7 @@ leetcode-solutions/
 ├── utils/
 │   └── template.md   # optional: reusable template for problem writeups
 o---
+```
 
 ## 🚀 Goals
 
