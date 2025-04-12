@@ -1,4 +1,4 @@
-# <problem-number>. <problem-title>
+# 0009. Palindrome Number
 
 🔗 [View on LeetCode](https://leetcode.com/problems/<slug>/)
 
